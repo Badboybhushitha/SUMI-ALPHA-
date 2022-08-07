@@ -1,6 +1,6 @@
 {
-    "name": "Aquabot - MD",
-    "description": "AQUABOT  - Makes it easy and fun to use Whatsapp.",
+    "name": "SUMI-ALPHA",
+    "description": "SUMI  - Makes it easy and fun to use Whatsapp.",
     "logo": "https://i.ibb.co/3fTsb8S/nexus.png",
     "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
     "repository": "https://github.com/sanuwaofficial/AQUABOT-MD",
@@ -8,7 +8,7 @@
     "success_url": "https://aquabot.ga",
     "stack": "container",
      "env": {
-            "AQUA_SESSION": {
+            "SUMI_SESSION": {
             "description": "",
             "required": true
              },
@@ -40,7 +40,7 @@
       },
            "URL_1LINK": {
             "description": "",
-            "value": "https://chat.whatsapp.com/LLbFBtwJj4rFlKm7bAbPME" ,
+            "value": "https://chat.whatsapp.com/Bg6UMa8ukSZJLZA4RNT8mx" ,
             "required": true
       },
      "URL_2NAME": {
@@ -115,7 +115,7 @@
       },
           "FILE_DOWN": {
             "description": "",
-            "value": "*📥ෆයිල් එක ඩවුන්ලෝඩ් වේන ගණන්..*" ,
+            "value": "*📥ෆයිල් එක ඩවුන්ලෝඩ් වේන ගමන්..*" ,
             "required": true
       },
           "FILE_UP": {

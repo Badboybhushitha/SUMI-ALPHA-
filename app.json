@@ -1,6 +1,6 @@
 {
-    "name": "Aquabot - MD",
-    "description": "AQUABOT  - Makes it easy and fun to use Whatsapp.",
+    "name": "Sumi-Alpha",
+    "description": "SUMIALPHA  - Makes it easy and fun to use Whatsapp.",
     "logo": "https://i.ibb.co/V9jYrQC/aqua-md.jpg",
     "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
     "repository": "https://github.com/sanuwaofficial/AQUABOT-MD",
@@ -8,7 +8,7 @@
     "success_url": "https://aquabot.ga",
     "stack": "container",
      "env": {
-            "AQUA_SESSION": {
+            "SUMI_SESSION": {
             "description": "",
             "required": true
              },
@@ -85,7 +85,7 @@
       },
       "ALIVE_LOGO": {
             "description": "",
-            "value": "https://user-images.githubusercontent.com/108208262/180058654-edc36087-58b6-4017-a41b-d8841ae4b128.jpeg" ,
+            "value": "https://ibb.co/ZHfJrwc" ,
             "required": true
       },
       "DEPLOYER": {

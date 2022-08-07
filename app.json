@@ -95,7 +95,7 @@
       },
       "ALIVE_LOGO": {
             "description": "",
-            "value": "" ,
+            "value": "https://i.ibb.co/3y8hLZk/gojo.png" ,
             "required": true
       },
       "DEPLOYER": {

@@ -1,6 +1,6 @@
 {
-    "LANGUAGE": "English",
-    "LANGCODE": "en",
+    "LANGUAGE": "Sinhala",
+    "LANGCODE": "si",
     "AUTHOR"  : "SUMI ALPHA",
     "STRINGS" : { 
                   "sumi" : {   
@@ -11,16 +11,16 @@
                             "WARN"     : "අනතුරු ඇගවීම"
                            },
                   "yt" :   {
-                            "N_SONG"   : "*🧜‍♀️💬ගීතයක නමක් ඇතුළත් කරන්න.*\nඋදා : .song faded" ,
-                            "NOT_SONG" : "*ගීතය හමු නොවීය‼️*" ,
+                            "N_SONG"   : "*🍁🎭ගීතයක නමක් ඇතුළත් කරන්න.*\nඋදා : .song faded" ,
+                            "NOT_SONG" : "*සින්දුවක් හම්බ උනේ නැ‼️*" ,
                             "S_YT"     : "*🔍 YOUTUBE හි සොයමින්...*" ,
-                            "N_YT"     : "*🧜‍♀️💬මාතෘකාවක් ඇතුළත් කරන්න.* \n :උදා : .getyt sri lanka cricket" ,
-                            "N_VID"    : "*🧜‍♀️💬YOUTUBE වීඩියෝ LINK එකක් ඇතුළත් කරන්න.*\nඋදා : .video https://youtu.be/pyCIKli4YUA" ,
+                            "N_YT"     : "*🍁🎭මාතෘකාවක් ඇතුළත් කරන්න.* \n :උදා : .getyt sri lanka cricket" ,
+                            "N_VID"    : "*🍁🎭YOUTUBE වීඩියෝ LINK එකක් ඇතුළත් කරන්න.*\nඋදා : .video https://youtu.be/pyCIKli4YUA" ,
                             "NOT_VID"  : "*වීඩියෝව හමු නොවීය‼️*",
-                            "N_TIK"    : "*🧜‍♀️💬කරුණාකර tiktok වීඩියෝ link එකක් ඇතුළත් කරන්න.*" ,
-                            "N_MF"     : "*🧜‍♀️💬කරුණාකර mediafire link එකක් ඇතුළත් කරන්න.*" , 
-                            "N_FB"     : "*🧜‍♀️💬කරුණාකර ෆේස්බුක් වීඩියෝ link එකක් ඇතුළත් කරන්න.*" , 
-                            "N_IG "    : "*🧜‍♀️💬කරුණාකර instagram link එකක් ඇතුළත් කරන්න.*",
+                            "N_TIK"    : "*🍁🎭කරුණාකර tiktok වීඩියෝ link එකක් ඇතුළත් කරන්න.*" ,
+                            "N_MF"     : "*🍁🎭කරුණාකර mediafire link එකක් ඇතුළත් කරන්න.*" , 
+                            "N_FB"     : "*🍁🎭කරුණාකර ෆේස්බුක් වීඩියෝ link එකක් ඇතුළත් කරන්න.*" , 
+                            "N_IG "    : "*🍁🎭කරුණාකර instagram link එකක් ඇතුළත් කරන්න.*",
                             "N_FOUND"  : "*හමු නොවීය‼️*"
                           } ,
                 "admin" : {  

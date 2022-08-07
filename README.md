@@ -1,4 +1,4 @@
-# AQUABOT-MD
+# SUMI-ALPHA-MD
 This project is still being tested
 <p align="center">   <a href="https://ibb.co/ZHfJrwc"><img src="https://i.ibb.co/3fTsb8S/nexus.png" alt="nexus" border="0"></a>
  <p align="center">

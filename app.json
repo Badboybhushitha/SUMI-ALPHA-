@@ -95,7 +95,7 @@
       },
       "ALIVE_MESSAGE": {
             "description": "",
-            "value": "default", 
+            "value": "HI I AM ONLIN NOW. I AM SUMI AN USER BOT FOR WHATSAPP .  ", 
             "required": true
       },
       "ALIVE_LOGO": {

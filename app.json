@@ -15,7 +15,7 @@
             "NO_ONLINE": {
             "description": "",
             "required": true,
-             "value": "false"    
+             "value": "true"    
              },
             "ANTI_BOT": {
             "description": "",
@@ -33,29 +33,29 @@
              },
             "OWN_NAME": {
             "description": "",
-            "value": "Sanuwa Official" ,
+            "value": "BHUSHITHA" ,
             "required": true
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94701629707" ,
+            "value": "94742427578" ,
             "required": true
              },
        
             "AUTO_REACT": {
             "description": "",
-            "value": "false" ,
+            "value": "true" ,
             "required": true
              },
            
            "URL_1NAME": {
             "description": "",
-            "value": "🎊INSTAGRAM🎊" ,
+            "value": "🎊GRUP🎊" ,
             "required": true
       },
            "URL_1LINK": {
             "description": "",
-            "value": "https://www.instagram.com/__.sanuwa.__/" ,
+            "value": "https://chat.whatsapp.com/Bg6UMa8ukSZJLZA4RNT8mx" ,
             "required": true
       },
      "URL_2NAME": {
@@ -65,22 +65,22 @@
       },
        "URL_2LINK": {
             "description": "",
-            "value": "https://github.com/sanuwaofficial" ,
+            "value": "https://github.com/Badboybhushitha/SUMI-ALPHA-" ,
             "required": true
       },
        "FOOTER": {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
+            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 SUMI ²⁰²²" ,
             "required": true
       },
      "ANTI_LINK": {
             "description": "",
-            "value": "false" ,
+            "value": "true" ,
             "required": true
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 SUMI ²⁰²²" ,
             "required": true
       },
        "INBOX_BLOCK": {
@@ -100,12 +100,12 @@
       },
       "ALIVE_LOGO": {
             "description": "",
-            "value": "https://telegra.ph/file/85fe740b2385a55178500.jpg" ,
+            "value": "https://i.ibb.co/9Z4nn2F/sumi.png" ,
             "required": true
       },
       "DEPLOYER": {
             "description": "",
-            "value": "AQUA USER" ,
+            "value": "SUMI USER" ,
             "required": true
       },
        "SONG_DOWN": {
@@ -150,7 +150,7 @@
       },
          "SUDO": {
             "description": "",
-            "value": "" ,
+            "value": "94767761567,0" ,
             "required": false
       },
          "LANGUAGE": {

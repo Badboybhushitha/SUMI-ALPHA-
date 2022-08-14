@@ -1,7 +1,5 @@
 # SUMI-ALPHA
-This project is still being tested
-<p align="center"> <a href="github.com/sanuwaofficial"><img align="center" src="https://telegra.ph/file/85fe740b2385a55178500.jpg"/></a>
- <p align="center">
+<a href="https://ibb.co/Bn6LLjX"><img src="https://i.ibb.co/9Z4nn2F/sumi.png" alt="sumi" border="0"></a>
 
     
   ### ඔබට පහසුවෙන් QR කේතය Repl.it මඟින් ලබා ගත හැක.. පහල බටනය CLICK කරන්න
